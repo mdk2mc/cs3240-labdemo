@@ -1,8 +1,7 @@
-import helper as h
+import helper as helper
 import goodbye as goodbye
 	
 if __name__ == "__main__":
-	h.greeting("hello")
+	helper.greeting("hello")
 	goodbye.salutation("goodbye")
-
 	
