@@ -1,6 +1,5 @@
-def greeting(msg):
-	print(msg)
+import helper as h
 	
 if __name__ == "__main__":
-	greeting("hello")
+	h.greeting("hello")
 	
